@@ -1,3 +1,5 @@
+Vercel: weather-web-ruddy.vercel.app
+
 Admin username-Nasreddin
 Admin password-qwerty
 
